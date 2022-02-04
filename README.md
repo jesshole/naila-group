@@ -41,4 +41,5 @@ https://www.tldraw.com/r/1640134478319
 https://www.tldraw.com/r/1640747713280
 
 ### Presentation
-file:///Users/jesshole/Downloads/Code_Food%20Presentation.pdf 
+[Code_Food Presentation.pdf](https://github.com/jesshole/naila-group/files/7999364/Code_Food.Presentation.pdf)
+
